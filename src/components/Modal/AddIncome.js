@@ -74,7 +74,7 @@ function AddIncome({ isIncomeModalVisible, handleIncomeCancel, onFinish }) {
           ]}
         >
           <Select className="select-input-2">
-            <Select.Option value="Salary">Salary</Select.Option>
+            <Select.Option value="salary">Salary</Select.Option>
             <Select.Option value="freelance">Freelance</Select.Option>
             <Select.Option value="investment">Investment</Select.Option>
           </Select>
